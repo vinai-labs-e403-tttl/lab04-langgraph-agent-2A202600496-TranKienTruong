@@ -1,0 +1,9 @@
+Bối cảnh:
+
+Bạn được giao nhiệm vụ xây dựng một "Trợ lý Du lịch Thông minh" cho startup TravelBuddy.Agent
+này giúp người dùng lên kế hoạch chuyến đi bằng cách tự động tra cứu chuyến bay, kiểm tra ngân sách,
+và tìm kiếm khách sạn phù hợp. Điểm đặc biệt: Agent phải biết KẾT HỢP thông tin từ nhiều nguồn để
+đưa ra gợi ý tối ưu — không chỉ trả lời từng câu rời rạc.
+
+Ví dụ: Khi user nói "Tôi muốn đi Đà Nẵng cuối tuần này, budget 5 triệu", Agent phải tự tra vé máy bay,
+tính chi phí còn lại, rồi tìm khách sạn vừa túi tiền — tất cả trong một cuộc hội thoại.
